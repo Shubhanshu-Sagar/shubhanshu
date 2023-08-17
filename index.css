@@ -227,6 +227,6 @@ a:hover{
     
     height: 200px;
     width: 200px;
-    animation: 1.9s infinite imgani;
+    animation: 0.3s infinite imgani;
     animation-direction: alternate;
 }
